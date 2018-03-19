@@ -20,3 +20,13 @@
 15. AMSGrad
 16. kSGD
 ```
+
+## Second Order Optimization Algorithms
+
+```
+1. Newton's Method
+2. Quasi- Newton Method
+3. Gauss-Newton Method
+4. Broyden-Fletcher-Goldfarb-Shanno (BFGS)
+5. Limited Memory BFGS
+```
