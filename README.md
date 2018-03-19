@@ -3,22 +3,23 @@
 ## First Order Optimization Algorithms
 
 ```
-1. Batch Gradient Descent
-2. Stochastic Gradient Descent
-3. Mini Batch Stochastic Gradient Descent
-4. Momentum
-5. Nesterov Accelarated Gradient
-6. AdaGrad
-7. RMSProp
-8. RMSProp with Nesterov Momentum
-9. Adam
-10. ADADelta
-11. Linear Conjugate Gradient Method
-12. Non Linear Conjugate Gradient Method
-13. AdaMax
-14. Nadam
-15. AMSGrad
-16. kSGD
+1. Stochastic Weights Averaging
+2. Batch Gradient Descent
+3. Stochastic Gradient Descent
+4. Mini Batch Stochastic Gradient Descent
+5. Momentum
+6. Nesterov Accelarated Gradient
+7. AdaGrad
+8. RMSProp
+9. RMSProp with Nesterov Momentum
+10. Adam
+11. ADADelta
+12. Linear Conjugate Gradient Method
+13. Non Linear Conjugate Gradient Method
+14. AdaMax
+15. Nadam
+16. AMSGrad
+17. kSGD
 ```
 
 ## Second Order Optimization Algorithms
