@@ -2,7 +2,8 @@
 
 ## First Order Optimization Algorithms
 
-```1. Batch Gradient Descent
+```
+1. Batch Gradient Descent
 2. Stochastic Gradient Descent
 3. Mini Batch Stochastic Gradient Descent
 4. Momentum
