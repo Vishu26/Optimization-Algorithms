@@ -20,6 +20,8 @@
 15. Nadam
 16. AMSGrad
 17. kSGD
+18. Coordinate Descent
+19. Polayak Averaging
 ```
 
 ## Second Order Optimization Algorithms
